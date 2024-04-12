@@ -1,7 +1,3 @@
-# JeuPuissance4
-jeu puissance 4 en console , implémenté sous java
-
-
 Contruire la grille de jeton : 
 taille : 6x7
 
@@ -29,5 +25,4 @@ Gamer :
 	gameStatus : String
 
 	
-
 
