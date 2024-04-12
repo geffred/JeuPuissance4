@@ -1,2 +1,2 @@
 # JeuPuissance4
-jeu puissance 4 implémenté en console sous java
+jeu puissance 4 en console , implémenté sous java
